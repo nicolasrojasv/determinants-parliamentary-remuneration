@@ -23,7 +23,7 @@ Preserve the paths and capitalisation below. Run all commands from the repositor
 | `Scripts/functions.R` | Defines `cargar_paquetes()`, which installs missing packages and loads them. |
 | `Data/DB/final_dataset_parlamentary_remunerations.xlsx` | Local input workbook; the main script reads `balanced db`. |
 
-Two additional directories are created by the preparation commands below:
+One additional directory is created by the preparation commands below:
 
 | Path | Purpose |
 | --- | --- |
